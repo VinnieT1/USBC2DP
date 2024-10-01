@@ -1,0 +1,3 @@
+Considerações para USB-C 2 DP:
+
+SBU1 e SBU2 não podem estar conectados diretamente ao AUX do DisplayPort. Deve haver uma chave que os conecta apenas quando o Alternate Mode já foi negociado e ativo. Quando isso ocorre, um dos GPIOs fecha essa chave e conecta os SBUs ao AUX.
