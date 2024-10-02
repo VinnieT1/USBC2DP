@@ -84,57 +84,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GOVQVHNV
 
 [Document3]
-DocumentPath=[03] - A4.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YFDTFRPB
-
-[Document4]
-DocumentPath=[04] - A3.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XUFWDCSE
-
-[Document5]
-DocumentPath=[05] - REVISION HISTORY.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QIWPOGFT
-
-[Document6]
 DocumentPath=USBC_to_DP.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document4]
 DocumentPath=USBC_to_DP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXNWUCIY
 
-[Document8]
+[Document5]
 DocumentPath=USBC_to_DP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPYVCTEO
 
-[Document9]
+[Document6]
 DocumentPath=USBC_to_DP.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document7]
 DocumentPath=USBC_to_DP.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document8]
 DocumentPath=USBC_to_DP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +185,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NBQAKXVG
 
-[Document12]
+[Document9]
+DocumentPath=[03] - A3.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XUFWDCSE
+
+[Document10]
+DocumentPath=[04] - REVISION HISTORY.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QIWPOGFT
+
+[Document11]
 DocumentPath=USBC_to_DP.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
