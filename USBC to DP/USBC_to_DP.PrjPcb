@@ -237,28 +237,28 @@ GenerateClassCluster=0
 DocumentUniqueId=ULGTLAGS
 
 [Parameter1]
-Name=CheckedProject
-Value=Engineer02
+Name=Website
+Value=-
 
 [Parameter2]
-Name=Company
-Value=MyCompany
-
-[Parameter3]
-Name=DesignedProject
-Value=Engineer01
-
-[Parameter4]
-Name=TitleProject
-Value=Project Name
-
-[Parameter5]
 Name=VersionRevision
 Value=P1
 
+[Parameter3]
+Name=TitleProject
+Value=USB-C to DisplayPort
+
+[Parameter4]
+Name=DesignedProject
+Value=Engineer01
+
+[Parameter5]
+Name=Company
+Value=EDGE
+
 [Parameter6]
-Name=Website
-Value=http://www.google.com
+Name=CheckedProject
+Value=Engineer02
 
 [Configuration1]
 Name=Sources
