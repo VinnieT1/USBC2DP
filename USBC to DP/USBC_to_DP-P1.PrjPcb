@@ -237,28 +237,28 @@ GenerateClassCluster=0
 DocumentUniqueId=ULGTLAGS
 
 [Parameter1]
-Name=Website
-Value=-
+Name=CheckedProject
+Value=Engineer02
 
 [Parameter2]
-Name=VersionRevision
-Value=P1
-
-[Parameter3]
-Name=TitleProject
-Value=USB-C to DisplayPort
-
-[Parameter4]
-Name=DesignedProject
-Value=Engineer01
-
-[Parameter5]
 Name=Company
 Value=EDGE
 
+[Parameter3]
+Name=DesignedProject
+Value=Engineer01
+
+[Parameter4]
+Name=TitleProject
+Value=USB-C to DisplayPort
+
+[Parameter5]
+Name=VersionRevision
+Value=P1
+
 [Parameter6]
-Name=CheckedProject
-Value=Engineer02
+Name=Website
+Value=-
 
 [Configuration1]
 Name=Sources
@@ -497,6 +497,11 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+OutputType4=Wire Bonding Table
+OutputName4=Wire Bonding Table Report
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -1147,6 +1152,7 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
+Type154=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
