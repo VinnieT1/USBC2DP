@@ -1,0 +1,65 @@
+Added Component: Designator=U1(QFN50P600X600X60_HS-41N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CYPD3120-40LQXI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=3,28, 10=2,401, 25=2,182, 80=2,1 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "2191"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "448-CYPD3120-40LQXI-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CC Pin=U1-5
+Added Pin To Net: NetName=VCONN Pin=U1-6
+Added Pin To Net: NetName=AUX_P Pin=U1-11
+Added Pin To Net: NetName=SBU1 Pin=U1-12
+Added Pin To Net: NetName=SBU2 Pin=U1-13
+Added Pin To Net: NetName=AUX_N Pin=U1-14
+Added Pin To Net: NetName=NetC9_2 Pin=U1-17
+Added Pin To Net: NetName=NetC9_2 Pin=U1-18
+Added Pin To Net: NetName=NetC13_2 Pin=U1-19
+Added Pin To Net: NetName=VCONN Pin=U1-20
+Added Pin To Net: NetName=USB_D_P Pin=U1-21
+Added Pin To Net: NetName=USB_D_N Pin=U1-22
+Added Pin To Net: NetName=NetC15_2 Pin=U1-26
+Added Pin To Net: NetName=+VBUS Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Pin To Net: NetName=HPD Pin=U1-35
+Add Pin To Net: Unknown Pin: Pin U1-41
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(153, 0, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Blue
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.254mm
