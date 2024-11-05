@@ -1,0 +1,87 @@
+Added Component: Designator=D10(BLUE LED)
+Add component (AddParameter): Name = "Category"; Value = "LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0006621110/MIDC-S-A0006621110-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0006621110/MIDC-S-A0006621110-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/2621640.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2621640.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://www.we-online.de/web/en/index.php/download/media/07_electronic_components/download_center_1/application_notes_berichte/ano002_leds___the_future_of_horticultural_lighting/ANO002b_EN_LEDs_The_Future_of_Horticultural_Lighting.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.we-online.de/web/en/index.php/download/media/07_electronic_components/download_center_1/application_notes_berichte/ano002_leds___the_future_of_horticultural_lighting/ANO002b_EN_LEDs_The_Future_of_Horticultural_Lighting.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://www.farnell.com/datasheets/2621640.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.farnell.com/datasheets/2621640.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060BS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Optoelectronic Device Type"; Value = "SINGLE COLOR LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0,18, 10=0,173, 100=0,157, 500=0,141, 1000=0,125 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "26973"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "732-12013-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0402)
+Add component (AddParameter): Name = "Additional Feature"; Value = "LASER TRIMMABLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/YAGO/YAGO-S-A0008145938/YAGO-S-A0008145938-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/YAGO/YAGO-S-A0008145938/YAGO-S-A0008145938-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/11808/0900766b80c66297-11808765.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/11808/0900766b80c66297-11808765.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/7849/1784430-7849810.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/7849/1784430-7849810.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/16740/pyu-rc0402-51-rohs-l-6-r-16740566.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/16740/pyu-rc0402-51-rohs-l-6-r-16740566.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/12667/pyu-rc0402-51-rohs-l-6-r-12667957.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/12667/pyu-rc0402-51-rohs-l-6-r-12667957.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/22747/1018594-22747511.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/22747/1018594-22747511.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/28367/1018594-28367226.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/28367/1018594-28367226.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.ciiva.com/15189/getdatasheetpartid-329466-15189335.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.ciiva.com/15189/getdatasheetpartid-329466-15189335.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Width"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0,1, 10=0,009, 50=0,0072, 100=0,0051, 500=0,00408, 1000=0,00306 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "FIXED RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "3392441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "311-100LRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "METAL GLAZE/THICK FILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Finish"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Wraparound"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(Test Point)
+Added Component: Designator=TP2(Test Point)
+Added Component: Designator=TP3(Test Point)
+Added Component: Designator=TP4(Test Point)
+Added Component: Designator=TP5(Test Point)
+Added Pin To Net: NetName=+VBUS Pin=D10-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=+VBUS Pin=TP1-1
+Added Pin To Net: NetName=GND Pin=TP2-1
+Added Pin To Net: NetName=VCONN Pin=TP3-1
+Added Pin To Net: NetName=NetC9_2 Pin=TP4-1
+Added Pin To Net: NetName=NetC13_2 Pin=TP5-1
+Add Pin To Net: Unknown Pin: Pin U1-41
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_1 Pin=R4-2
+Added Net: Name=NetD10_1
+Added Differential Pair: Name=AUX
