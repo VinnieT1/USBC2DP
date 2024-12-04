@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\vinic\OneDrive\Área de Trabalho\Embarcados\USBC2DP\USBC to DP\USBC_to_DP.PcbDoc
-Date     : 25/11/2024
-Time     : 10:13:28
+Date     : 04/12/2024
+Time     : 07:49:39
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (InNetClass('DIFF90')),(InNetClass('DIFF90'))
 Rule Violations :0
@@ -57,7 +57,7 @@ Rule Violations :0
 Processing Rule : Board Clearance Constraint (Gap=0mm) (IsComponent)
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Delay Tolerance=7.5ps) (InNetClass('DIFF90'))
+Processing Rule : Matched Lengths(Delay Tolerance=7,5ps) (InNetClass('DIFF90'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
@@ -66,4 +66,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
